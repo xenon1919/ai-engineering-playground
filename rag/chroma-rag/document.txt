@@ -1,0 +1,5 @@
+Retrieval Augmented Generation improves LLM responses by retrieving relevant knowledge before generating an answer.
+
+Embeddings convert text into vectors that allow similarity search.
+
+Vector databases store embeddings and make retrieval efficient.
