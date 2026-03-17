@@ -1,0 +1,2 @@
+Vector databases store embeddings efficiently.
+They allow fast retrieval of similar information.

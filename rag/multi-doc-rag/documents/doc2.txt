@@ -1,0 +1,2 @@
+Embeddings convert text into numerical vectors.
+These vectors allow semantic similarity search.
