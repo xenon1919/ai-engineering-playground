@@ -1,0 +1,5 @@
+RAG improves LLM responses by retrieving relevant information.
+
+Embeddings convert text into vectors.
+
+Vector databases store and retrieve embeddings efficiently.
