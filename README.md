@@ -1,0 +1,1 @@
+-  A hands-on playground for building and experimenting with LLM applications, including chatbots, RAG systems, AI agents, and real-world GenAI workflows using modern AI frameworks.
